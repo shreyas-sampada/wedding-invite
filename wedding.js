@@ -17,7 +17,7 @@ window.wedding = {
   song: { title: "Chaap Tilak", artist: "Namita Choudhary", src: "audio/wedding-song.mp3" },
   story: [
     { date: "ONE SUMMER", title: "A shared thread", description: "Both our families come from a community of weavers, a craft our ancestors carried through generations. Neither of us follows it as a profession today, but that shared heritage brought us to our first meeting.", image: "" },
-    { date: "NOT LONG AFTER", title: "Coffee & conversation", description: "At a café, we got to know one another properly. The conversation flowed, our vibes matched, and what began as an introduction soon felt like a real connection.", image: "" },
+    { date: "NOT LONG AFTER", title: "Coffee & conversation", description: "Our first proper meeting was at a café, where we began getting to know each other. The conversation flowed, our vibes matched, and it felt like the beginning of something lovely.", image: "" },
     { date: "NEW YEAR’S DAY", title: "A new chapter", description: "Since then, we’ve kept discovering one another, one conversation at a time. On the first day of a new year, we’ll begin our married life together.", image: "" }
   ],
   events: [
